@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "6447808446eb1c3695d962b3"
+  },
+  "name": "Devcentral Bootcamp",
+  "description": "Is coding your passion? Codemasters will give you the skills and the tools to become the best developer possible. We specialize in front end and full stack web development",
+  "website": "https://devcentral.com",
+  "phone": "(444) 444-4444",
+  "email": "enroll@devcentral.com",
+  "careers": [
+    "Mobile Development",
+    "Web Development",
+    "Data Science",
+    "Business"
+  ],
+  "housing": false,
+  "jobAssistance": true,
+  "jobGuarantee": true,
+  "acceptGi": true,
+  "createdAt": {
+    "$date": "2023-04-25T06:27:57.076Z"
+  },
+  "user": {
+    "$oid": "64477f1946eb1c3695d962ac"
+  },
+  "slug": "devcentral-bootcamp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644780c746eb1c3695d962b7"
+  },
+  "name": "ModernTech Bootcamp",
+  "description": "ModernTech has one goal, and that is to make you a rockstar developer and/or designer with a six figure salary. We teach both development and UI/UX",
+  "website": "https://moderntech.com",
+  "phone": "(222) 222-2222",
+  "email": "enroll@moderntech.com",
+  "careers": [
+    "Web Development",
+    "UI/UX",
+    "Mobile Development"
+  ],
+  "housing": false,
+  "jobAssistance": true,
+  "jobGuarantee": false,
+  "acceptGi": true,
+  "createdAt": {
+    "$date": "2023-04-25T06:27:57.076Z"
+  },
+  "user": {
+    "$oid": "64477f1946eb1c3695d962ac"
+  },
+  "slug": "moderntech-bootcamp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644780ef46eb1c3695d962bb"
+  },
+  "name": "Devworks Bootcamp",
+  "description": "Devworks is a full stack JavaScript Bootcamp located in the heart of Boston that focuses on the technologies you need to get a high paying job as a web developer",
+  "website": "https://devworks.com",
+  "phone": "(111) 111-1111",
+  "email": "enroll@devworks.com",
+  "careers": [
+    "Web Development",
+    "UI/UX",
+    "Business"
+  ],
+  "housing": true,
+  "jobAssistance": true,
+  "jobGuarantee": false,
+  "acceptGi": true,
+  "createdAt": {
+    "$date": "2023-04-25T06:27:57.076Z"
+  },
+  "user": {
+    "$oid": "64477f1946eb1c3695d962ac"
+  },
+  "slug": "devworks-bootcamp",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "644780fe46eb1c3695d962bf"
+  },
+  "name": "Devworks Bootcamp",
+  "description": "Devworks is a full stack JavaScript Bootcamp located in the heart of Boston that focuses on the technologies you need to get a high paying job as a web developer",
+  "website": "https://devworks.com",
+  "phone": "(111) 111-1111",
+  "email": "enroll123@devworks.com",
+  "careers": [
+    "Web Development",
+    "UI/UX",
+    "Business"
+  ],
+  "housing": true,
+  "jobAssistance": true,
+  "jobGuarantee": false,
+  "acceptGi": true,
+  "createdAt": {
+    "$date": "2023-04-25T06:27:57.076Z"
+  },
+  "user": {
+    "$oid": "64477f1946eb1c3695d962ac"
+  },
+  "slug": "devworks-bootcamp",
+  "__v": 0
+}]

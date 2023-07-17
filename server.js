@@ -30,7 +30,9 @@ if(process.env.NODE_ENV === 'development'){
     console.log('morgan middleware');
     app.use(morgan('dev'));
 }
-
+app.get('/api',(req,res)=>{
+    res.send('Congratulations, NodeJs is working properlly')
+})
 app.use('/api/v1/bootcamps',bootcamps)
 app.use('/api/v1/auth',auth);
 app.use('/api/v1/courses',course);
